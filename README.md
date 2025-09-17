@@ -101,4 +101,4 @@ int main() {
 }
 
 ### Результат работы программы
-https://github.com/mariiasheveleva/Programming-C-Labs/blob/main/pascal.jpg
+![Треугольник Паскаля](https://github.com/mariiasheveleva/Programming-C-Labs/raw/main/pascal.jpg)
